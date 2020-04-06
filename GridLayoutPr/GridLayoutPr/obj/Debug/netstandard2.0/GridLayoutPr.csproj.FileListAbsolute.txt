@@ -1,0 +1,13 @@
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\bin\Debug\netstandard2.0\GridLayoutPr.deps.json
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\bin\Debug\netstandard2.0\GridLayoutPr.dll
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\bin\Debug\netstandard2.0\ref\GridLayoutPr.dll
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\bin\Debug\netstandard2.0\GridLayoutPr.pdb
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\GridLayoutPr.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\GridLayoutPr.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\GridLayoutPr.AssemblyInfo.cs
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\GridLayoutPr.dll
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\ref\GridLayoutPr.dll
+C:\Users\santosh\source\repos\GridLayoutPr\GridLayoutPr\GridLayoutPr\obj\Debug\netstandard2.0\GridLayoutPr.pdb
